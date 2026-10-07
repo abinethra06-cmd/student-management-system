@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+header h1 {
+  color: blue;
+  text-align: center;
+}
+
+.student-profile {
+  border: 2px solid black;
+  padding: 15px;
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+.student-profile p {
+  margin: 8px 0;
+}
+
+footer {
+  margin-top: 30px;
+  text-align: center;
+}
